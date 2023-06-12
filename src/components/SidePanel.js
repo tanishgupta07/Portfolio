@@ -1,12 +1,12 @@
 import React from 'react';
 import { FaLinkedin, FaGithub, FaDownload , FaEnvelope} from 'react-icons/fa';
 import { IoMdCall } from 'react-icons/io';
-import ProfilePicture from '../images/Image3.png'
+import ProfilePicture from '../images/photo.png'
 
 const SidePanel = () => {
   const handleResumeDownload = () => {
     // Logic to initiate the resume download
-    const fileID = '1XAg5uhLPcgpMy7ohUGCslISe95FJzJpi'; // Replace with the ID of your Google Drive file
+    const fileID = '1Y7GqRBOdZV9ufZobPWMRk5XPT1ox37Fh'; // Replace with the ID of your Google Drive file
   const downloadLink = document.createElement('a');
   downloadLink.href = `https://drive.google.com/uc?export=download&id=${fileID}`;
   downloadLink.download = 'Tanish_Resume.pdf'; // Replace with your desired filename

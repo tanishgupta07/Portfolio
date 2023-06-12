@@ -45,7 +45,7 @@ using an internal API.
         </li>
       </ul>
 
-      <h2 className="text-2xl font-bold mb-2">Performancr analyzer Chrome Plugin</h2>
+      <h2 className="text-2xl font-bold mb-2">Performance analyzer Chrome Plugin</h2>
       <p className="text-gray-600 mb-4">Cognizant Product</p>
 
       <ul className="list-disc pl-6 mb-6">

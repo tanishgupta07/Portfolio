@@ -1,7 +1,7 @@
 import React from 'react';
 
 const AboutMe = () => {
-  const skills = ['JavaScript', 'React', 'Node.js', 'MongoDB', 'ExpressJS', 'InfluxDB', 'ELK', 'TailwindCSS', 'RabbitMQ'];
+  const skills = ['JavaScript', 'React', 'Node.js', 'MongoDB', 'MySQL','ExpressJS', 'InfluxDB', 'ELK', 'TailwindCSS', 'RabbitMQ'];
 
   return (
     <div>
